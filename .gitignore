@@ -1,0 +1,8 @@
+.DS_Store
+src/.ipynb_checkpoints/
+src/.DS_Store
+input/train.csv
+input/test.csv
+input/sample_submission.csv
+input/.DS_Store
+input/BERT_uncased_vocab/.DS_Store
